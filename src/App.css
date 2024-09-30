@@ -1,0 +1,10 @@
+#root {
+  margin: 0 auto;
+  padding: 48px 24px;
+
+  max-width: 1280px;
+  min-height: calc(100% - 96px);
+
+  display: flex;
+  flex-direction: column;
+}

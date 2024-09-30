@@ -1,0 +1,11 @@
+.scoreBoard-wrapper{
+    height: fit-content;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.scorePlayer-One span, .scorePlayer-Two span{
+    font-size: 40px;
+}

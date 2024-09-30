@@ -1,0 +1,9 @@
+.ball-field{
+    max-width: 100%;
+    min-height: 100%;
+
+    flex-grow: 1;
+    position: relative;
+
+    border: 1px solid #f5f5f5;
+}

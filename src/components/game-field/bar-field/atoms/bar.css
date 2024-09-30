@@ -1,0 +1,10 @@
+.bar{
+    width: 8px;
+    height: 124px;
+
+    position: absolute;
+    top: calc(50% - 124px/2);
+
+    background-color: #f5f5f5;
+    transition: all 0.3s ease ;
+}
