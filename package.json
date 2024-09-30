@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "serve dist -s -n -L -p 3000"
+    "start": "serve dist -s -n -L -p 3000",
+    "serve": "serve dist -s -n -L -p 3000"
   },
   "dependencies": {
     "react": "^18.3.1",
